@@ -2,6 +2,7 @@
 title: "Open Lab Hours (showing availability)"
 description: ""
 layout: default
+sort_key: "___"
 ---
 
 <style>

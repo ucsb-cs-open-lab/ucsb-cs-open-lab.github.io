@@ -1,7 +1,8 @@
 ---
-title: "All Open Lab Hours"
-description: ""
+title: "All"
+description: "All Open Lab Hours on a single calendar"
 layout: default
+sort_key: "zzz"
 ---
 
 <style>

@@ -9,6 +9,9 @@ permalink: /calendars
 
 # {{page.title}}
 
-{% for cal in site.calendars %}
+
+{% assign calendars_sorted = site.calendars | sort: "sort_key" %}
+
+{% for cal in calendars_sorted %}
 * [{{cal.title}}]({{ cal.url }}) 
 {% endfor %}
