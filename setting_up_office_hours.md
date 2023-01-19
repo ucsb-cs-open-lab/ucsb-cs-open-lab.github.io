@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Setting Up Office Hours"
+title: "Signing Up"
 layout: default
 nav_order: 0
-description: "Instructions for Instructors/TAs/LAs"
-permalink: /setup
+description: "Instructions for Instructors/TAs/LAs to sign up for office hours slots"
+permalink: /signup
 ---
 
 # {{page.title}}

@@ -19,10 +19,10 @@ This website is for you if:
 When these rooms are used for shared office hours, we call this "UCSB CS Open Lab".
 
 On this site, you can find:
-* [Open Lab Times](/calendars/open/)A calendar of when the rooms have been reserved for open lab hours. 
-* Information about how TA/LA/Instructors can get access to a Google Calendar for each course so that they can reserve timeslots for their hours
+* [Open Lab Times](/calendars/open/) - A calendar of when the rooms have been reserved for open lab hours. 
+* [Signup Instructions](/signup) - Instructions for TA/LA/Instructors to sign up for office hours slots
 * Links to [web pages for each course](/calendars) that you can publicize to students
-* [All Open Lab Hours](/calendars/all) Master Google Calendar showing all of the office hours being held in open labs
+* [All Open Lab Hours](/calendars/all) - Master Google Calendar showing all of the office hours being held in open labs
 * General policies and information pertaining to the scheduling and use of the "open labs".
 
 
