@@ -37,4 +37,7 @@ To add an office hours slot, you may follow these instructions (or you may watch
 
 # Video Instructions
 
+To make the video full screen, click the box like this: <img width="89" alt="image" src="https://user-images.githubusercontent.com/1119017/213784058-cd639d79-09e4-41f0-b364-02122b4e52d6.png"> at the lower right of the video.
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hj6iVR-IxpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
