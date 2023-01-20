@@ -15,11 +15,9 @@ This page assumes that:
 * a calendar for your course has already been set up, and
 * you have already been given access to `Make Changes to Events` on the appropriate Google Calendar for your course
 
-# Video Instructions
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hj6iVR-IxpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 # To add an office hour slot
+
+To add an office hours slot, you may follow these instructions (or you may watch the video embedded below that illustrates these steps.)
 
 1. Visit the page [Open Hours](/calendars/open) to find out when the rooms in Phelps are available.   You may schedule at any time that a room shows as reserved for open lab.  Note that just because the room shows as reserved doesn't mean it will be "open"; you may still need to get a key from the CS office staff.
 2. If you decide to hold your office hours in one of the rooms reserved for open lab hours, please make a note of which room: e.g. 2510, 3525, or 3526.
@@ -34,3 +32,9 @@ This page assumes that:
 
 5. Once you've created the event, visit the [Calendars](/calendars) page, and check that your new office hour slots shows up correctly. 
 6. Now that you've set up the repeating slot, if you want to delete individual events, or add "one off" non-repeating events, you may do so.
+
+
+
+# Video Instructions
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hj6iVR-IxpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
