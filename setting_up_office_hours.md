@@ -15,6 +15,10 @@ This page assumes that:
 * a calendar for your course has already been set up, and
 * you have already been given access to `Make Changes to Events` on the appropriate Google Calendar for your course
 
+# Video Instructions
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hj6iVR-IxpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # To add an office hour slot
 
 1. Visit the page [Open Hours](/calendars/open) to find out when the rooms in Phelps are available.   You may schedule at any time that a room shows as reserved for open lab.  Note that just because the room shows as reserved doesn't mean it will be "open"; you may still need to get a key from the CS office staff.
