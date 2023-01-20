@@ -2,7 +2,7 @@
 layout: default
 title: "FAQ"
 layout: default
-nav_order: 0
+nav_order: 9
 description: "Frequently Asked Questions"
 permalink: /faq
 ---
