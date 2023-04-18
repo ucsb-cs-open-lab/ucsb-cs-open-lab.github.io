@@ -17,3 +17,6 @@ Q: Can we double book the rooms in Phelps?
  
 Q: Can we hold some office hours in Phelps and some elsewhere or online?
 : A: Yes!  It's totally fine to use the Google Calendar to document office hours that are being held online only, or in other spaces such as the TA trailer, CSIL, a private lab, etc. 
+
+Q: What about keys?
+: A: For keys, please see the Grad Adviser in the CS Main Office.  You may use this link to schedule a time <https://calendly.com/ucsb-cs-dept>.
