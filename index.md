@@ -5,7 +5,7 @@ layout: default
 nav_order: 0
 description: "Scheduling TA/LA/Instructor office hours in Phelps labs"
 permalink: /
-courses: "5A, 5B, 8, 9, 16, 24, 32, 40, 64, 111, 130A, 130B, 148, 154, 156"
+courses: "5A, 5B, 8W, 9, 16, 24, 32, 40, 111, 130A, 130B, 138, 156, 165B"
 ---
 
 # {{page.title}}
