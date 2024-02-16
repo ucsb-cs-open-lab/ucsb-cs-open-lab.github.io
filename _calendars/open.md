@@ -15,9 +15,9 @@ This calendar shows the times that the open lab rooms are available for scheduli
 
 It should be in sync with the official CS department calendars for these rooms at the following links, but if it isn't, then consult these calendars for the official open lab times.  
 
-* [Phelps 2510](https://www.cs.ucsb.edu/phelps-2510-classroom)
+* [Phelps 2510](https://www.cs.ucsb.edu/phelps-2510-classroom) 
 * [Phelps 3535](https://www.cs.ucsb.edu/phelps-3525-classroom)
-* [Phelps 3536](https://www.cs.ucsb.edu/phelps-3526-classroom)
+* [Phelps 3536](https://calendar.google.com/calendar/u/0/embed?height=600&wkst=1&bgcolor=%23ffffff&&mode=week&ctz=America/Los_Angeles&showTitle=0&src=dGRmY2VqdTYwNjFwMmR0cnFkcjQybWwzcGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23F6BF26)
 
 If you are scheduling outside of these blocks, please use another space such as the TA trailer, or Zoom.
 
