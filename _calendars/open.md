@@ -11,7 +11,13 @@ sort_key: "0"
 
 
 
-This calendar shows the times that the open lab rooms are available for scheduling office hours.
+This calendar shows the times that the open lab rooms are available for scheduling office hours. It should show the availability in rooms 2510, 3535 and 3536.
+
+It should be in sync with the official CS department calendars for these rooms at the following links, but if it isn't, then consult these calendars for the official open lab times.  
+
+* [Phelps 2510](https://www.cs.ucsb.edu/phelps-2510-classroom)
+* [Phelps 3535](https://www.cs.ucsb.edu/phelps-3525-classroom)
+* [Phelps 3536](https://www.cs.ucsb.edu/phelps-3526-classroom)
 
 If you are scheduling outside of these blocks, please use another space such as the TA trailer, or Zoom.
 
