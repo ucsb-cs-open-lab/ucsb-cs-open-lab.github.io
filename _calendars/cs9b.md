@@ -1,8 +1,8 @@
 ---
-title: "CMPSCW   8 (Prof. K)"
+title: "CMPSC   9 (Burk)"
 description: ""
 layout: default
-sort_key: "CMPSC   8 (Prof. K)"
+sort_key: "CMPSC   9 (Burk)"
 ---
 
 <style>
