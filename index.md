@@ -32,7 +32,7 @@ The CS department has allocated space in three departmentally controlled classro
 
 The idea arose when we needed space for undergrad LAs to hold office hours, and the TA trailer was already overcrowded.  Since then, we have discovered that it can be helpful to hold all or a portion of the office hours for a course&mdash;not just LA office hours, but also TA, and sometimes even instructor office hours in these spaces. 
 
-Currently, this option is available for all of the course that are part of the LA program (i.e. 5A,5B,8,9,16,24,32,40,64,111,130A,130B,148,154,156,171,190A).
+Currently, this option is available for all of the course that are part of the LA program (i.e. {{page.courses}}).
 
 While you are not required to make use of this space, we want to encourage you to consider doing so.  Some of the benefits:
 
