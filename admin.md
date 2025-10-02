@@ -9,7 +9,17 @@ permalink: /admin
 
 # {{page.title}}
 
-## Updating Access to the Calendars
+## Updating the master Open Lab Calendar
+
+Each quarter, someone needs to:
+
+1. Check the department calendars for Phelps [3525](https://www.cs.ucsb.edu/phelps-3525-classroom) and Phelps [3526](https://www.cs.ucsb.edu/phelps-3526-classroom) and if needed because there's not enough availability from the first two, Phelps [2510](https://www.cs.ucsb.edu/phelps-2510-classroom).
+2. See when they are unused.
+3. Ask the staff to put in blocks for "Open Lab Hours" in the unused times.
+4. Copy those blocks of time to the master [CS Open Lab Hours](https://ucsb-cs-open-lab.github.io/calendars/open/) calendar.
+5. Share that calendar with the faculty of the courses that are invited to hold office hours in these rooms, and suggest that they let their TAs and ULAs know that the rooms are a great place to hold office hours during these time blocks.
+
+## Updating Access to the individual course calendars
 
 Each quarter, someone needs to go through all of the calendars and update the access.
 1. Add the instructor for the course if they are not already there.
@@ -18,7 +28,7 @@ Each quarter, someone needs to go through all of the calendars and update the ac
 
 ## How to add a course
 
-To add a new course:
+To add a new course that isn't currently listed:
 
 1. Create a Google Calendar for the course
 2. Add the faculty and staff that help to maintain the open lab system with permissions `Make Changes and Manage Sharing`
