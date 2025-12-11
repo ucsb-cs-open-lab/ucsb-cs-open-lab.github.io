@@ -11,7 +11,13 @@ permalink: /admin
 
 ## Updating the master Open Lab Calendar
 
-Each quarter, someone needs to:
+Each quarter, someone needs to take the following steps.  This should be done as soon as the schedule for the following quarter's
+use of these rooms is fairly settled.  This is usually the case by third enrollment pass, which means it can be done pretty early.
+
+For example:
+* Mid December for Winter Quarter
+* Mid March for Spring Quarter
+* August for Fall Quarter.
 
 1. Check the department calendars for Phelps [3525](https://www.cs.ucsb.edu/phelps-3525-classroom) and Phelps [3526](https://www.cs.ucsb.edu/phelps-3526-classroom) and if needed because there's not enough availability from the first two, Phelps [2510](https://www.cs.ucsb.edu/phelps-2510-classroom).
 2. See when they are unused.
