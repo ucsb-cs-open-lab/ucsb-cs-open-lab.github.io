@@ -42,3 +42,8 @@ To add a new course that isn't currently listed:
 4. Under the `_calendars` directory in the repo, add a file `cs123.md` where `cs123` is the course number.
 5. Consult the other files for example of the content to put in that file.  For the `<iframe>`, get the iframe code from the settings for the Google Calendar you created.
 6. Add the course to the list of courses on the home page.
+
+## Things to do every quarter
+1. Reminder all ULAs and TAs about the need to close windows and lock doors when the room is not in use, and 
+   to make sure that a TA or ULA is the last one to leave (that is, don't leave studnets unattended in the room).
+2. Remind faculty that their TAs and ULAs are encouraged to hold office hours in these time slots.  It isn't mandatory, but it is encouraged.
