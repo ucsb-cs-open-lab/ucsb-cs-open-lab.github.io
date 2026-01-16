@@ -12,8 +12,9 @@ permalink: /signup
 
 This page assumes that:
 
-* a calendar for your course has already been set up, and
-* you have already been given access to `Make Changes to Events` on the appropriate Google Calendar for your course
+* You are an instructor, TA or ULA for a course in the CS department, and you want to set up your office hours.
+* A calendar for your course has already been set up, and
+* You have already been given access to `Make Changes to Events` on the appropriate Google Calendar for your course
 
 # To add an office hour slot
 
