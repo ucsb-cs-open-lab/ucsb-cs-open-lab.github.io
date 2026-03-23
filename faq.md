@@ -20,3 +20,10 @@ Q: Can we hold some office hours in Phelps and some elsewhere or online?
 
 Q: What about keys?
 : A: For keys, please see the Grad Adviser in the CS Main Office.  You may use this link to schedule a time <https://calendly.com/ucsb-cs-dept>.
+
+Q: I'm an instructor. How do I add TAs/LAs to the shared calendar?
+: A: Please follow these steps:
+1. Go to <https://calendar.google.com> and sign in.
+2. On the left sidebar, under “My calendars,” locate the calendar for your course (e.g., CS130A Ofc Hrs). Hover over the calendar name, click the three-dot (⋮) icon, and select “Settings and sharing.”
+3. Scroll down to the “Share with specific people or groups” section.
+4. Add your TA/ULA email addresses and set their permission to “Make changes to events”. Please ensure they are not granted permission to manage sharing.
